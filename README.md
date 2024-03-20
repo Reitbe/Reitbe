@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/Source/circle2-whale.png" width="20%"><br>
+  <img src="/Source/circle-orange-whale.png" width="20%"><br>
   <br>
   
   <p>
